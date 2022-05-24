@@ -16,9 +16,6 @@
 <a href="https://instagram.com/lexcaraig" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/lexcaraig" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
   
 </br>
 
@@ -27,8 +24,6 @@
   <h3 align="center">My YouTube Stats</h3>
 
   <p align="center">
-    Youtube stats badges for your Github profile README
-    <br />
     <br />
     <a href="https://www.youtube.com/channel/UCHkUoMBnp8ej0DZHgzJe0SQ?sub_confirmation=1">
       <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCHkUoMBnp8ej0DZHgzJe0SQ&key=AIzaSyAgYj-zKiQsaVsjqfx3NsiHqATRg2gyOqc"/>
