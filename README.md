@@ -20,8 +20,26 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
   
+</br>
 
+<p align="center">
+  <img src="https://i.imgur.com/0QRyKo9.png" width="100px"/>
+  <h3 align="center">My YouTube Stats</h3>
 
+  <p align="center">
+    Youtube stats badges for your Github profile README
+    <br />
+    <br />
+    <a href="https://www.youtube.com/channel/UCHkUoMBnp8ej0DZHgzJe0SQ?sub_confirmation=1">
+      <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCHkUoMBnp8ej0DZHgzJe0SQ&key=UCHkUoMBnp8ej0DZHgzJe0SQ"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCHkUoMBnp8ej0DZHgzJe0SQ?sub_confirmation=1">
+      <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCHkUoMBnp8ej0DZHgzJe0SQ&key=UCHkUoMBnp8ej0DZHgzJe0SQ"/>
+    </a>
+  </p>
+</p>
+
+</br>
 
 ### Glad to see you here!  
 I'm a Front-end Developer based in Philippines since 2015. Being a Front-end Developer allows me to not only develop client-facing apps and websites but also grow and push myself into learning web3 technologies.
