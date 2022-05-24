@@ -31,10 +31,10 @@
     <br />
     <br />
     <a href="https://www.youtube.com/channel/UCHkUoMBnp8ej0DZHgzJe0SQ?sub_confirmation=1">
-      <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCHkUoMBnp8ej0DZHgzJe0SQ&key=AIzaSyAgYj-zKiQsaVsjqfx3NsiHqATRg2gyOqc/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>
+      <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCHkUoMBnp8ej0DZHgzJe0SQ&key=AIzaSyAgYj-zKiQsaVsjqfx3NsiHqATRg2gyOqc"/>
     </a>
     <a href="https://www.youtube.com/channel/UCHkUoMBnp8ej0DZHgzJe0SQ?sub_confirmation=1">
-      <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCHkUoMBnp8ej0DZHgzJe0SQ&key=AIzaSyAgYj-zKiQsaVsjqfx3NsiHqATRg2gyOqc/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
+      <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCHkUoMBnp8ej0DZHgzJe0SQ&key=AIzaSyAgYj-zKiQsaVsjqfx3NsiHqATRg2gyOqc"/>
     </a>
   </p>
 </p>
