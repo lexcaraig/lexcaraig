@@ -16,6 +16,10 @@
 <a href="https://instagram.com/lexcaraig" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+
+</br>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21h26uar2q5bfuawjxckuszxi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21h26uar2q5bfuawjxckuszxi&redirect=true)
   
 </br>
 
