@@ -17,27 +17,8 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/channel/UCHkUoMBnp8ej0DZHgzJe0SQ?sub_confirmation=1">
-<img src=https://img.shields.io/badge/youtube-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=red alt=youtube style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/youtube-%23000000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px; background-color: #fff; color: #000" />
 </a>
-
-</br>
-  
-</br>
-
-<p align="center">
-  <img src="https://i.imgur.com/0QRyKo9.png" width="100px"/>
-  <h3 align="center">My YouTube Stats</h3>
-
-  <p align="center">
-    <br />
-    <a href="https://www.youtube.com/channel/UCHkUoMBnp8ej0DZHgzJe0SQ?sub_confirmation=1">
-      <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCHkUoMBnp8ej0DZHgzJe0SQ&key=AIzaSyAgYj-zKiQsaVsjqfx3NsiHqATRg2gyOqc"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCHkUoMBnp8ej0DZHgzJe0SQ?sub_confirmation=1">
-      <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCHkUoMBnp8ej0DZHgzJe0SQ&key=AIzaSyAgYj-zKiQsaVsjqfx3NsiHqATRg2gyOqc"/>
-    </a>
-  </p>
-</p>
 
 </br>
 
