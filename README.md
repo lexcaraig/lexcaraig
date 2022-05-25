@@ -63,7 +63,7 @@ I am also a Cryptocurrency Trader as well as an Investor, and in my free time, i
 
 
 ## Github Stats  
-img src="https://github-readme-stats.vercel.app/api?username=lexcaraig&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=lexcaraig&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 <br />
 
 ----
