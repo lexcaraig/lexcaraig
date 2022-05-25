@@ -45,6 +45,8 @@ I specialize in building UI/UX Components that helps building client-facing apps
 
 I am also a Cryptocurrency Trader as well as an Investor, and in my free time, i share my trading knowledge to the community by creating Youtube Tutorials and answering questions during live and in our discord. I do this to help others learn how to properly read the market with proper risk management, to help them earn a little in trading and help them grow and protect their accounts.  
 
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=lexcaraiginc)](https://medium.com/@lexcaraiginc)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21h26uar2q5bfuawjxckuszxi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21h26uar2q5bfuawjxckuszxi&redirect=true)
   
 
