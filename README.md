@@ -27,9 +27,7 @@ I'm a Front-end Developer based in Philippines since 2015. Being a Front-end Dev
 
 I specialize in building UI/UX Components that helps building client-facing apps faster. I always try to keep the codebase readable and easy to understand for other developers with the help of best practices from the community or the framework used in building the app, I always look for a much simpler approach in solving problem, keep things simple and easy to understand.
 
-I am also a Cryptocurrency Trader as well as an Investor, and in my free time, i share my trading knowledge to the community by creating <a href="https://www.youtube.com/channel/UCHkUoMBnp8ej0DZHgzJe0SQ?sub_confirmation=1">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a> Tutorials and answering questions during live and in our discord. I do this to help others learn how to properly read the market with proper risk management, to help them earn a little in trading and help them grow and protect their accounts.  
+I am also a Cryptocurrency Trader as well as an Investor, and in my free time, i share my trading knowledge to the community by creating Youtube Tutorials and answering questions during live and in our discord. I do this to help others learn how to properly read the market with proper risk management, to help them earn a little in trading and help them grow and protect their accounts.  
 
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=lexcaraiginc)](https://medium.com/@lexcaraiginc)
 
