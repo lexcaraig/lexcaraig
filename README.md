@@ -18,10 +18,6 @@
 </a>
 
 </br>
-
-<div align="center">
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21h26uar2q5bfuawjxckuszxi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21h26uar2q5bfuawjxckuszxi&redirect=true)
-</div>
   
 </br>
 
@@ -48,6 +44,8 @@ I'm a Front-end Developer based in Philippines since 2015. Being a Front-end Dev
 I specialize in building UI/UX Components that helps building client-facing apps faster. I always try to keep the codebase readable and easy to understand for other developers with the help of best practices from the community or the framework used in building the app, I always look for a much simpler approach in solving problem, keep things simple and easy to understand.
 
 I am also a Cryptocurrency Trader as well as an Investor, and in my free time, i share my trading knowledge to the community by creating Youtube Tutorials and answering questions during live and in our discord. I do this to help others learn how to properly read the market with proper risk management, to help them earn a little in trading and help them grow and protect their accounts.  
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21h26uar2q5bfuawjxckuszxi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21h26uar2q5bfuawjxckuszxi&redirect=true)
   
 
 <br/>  
