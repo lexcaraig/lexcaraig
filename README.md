@@ -36,6 +36,11 @@ I am also a Cryptocurrency Trader as well as an Investor, and in my free time, i
 - :heavy_check_mark: Documented Codebase
 - :heavy_check_mark: Git, Jira 
 
+<br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br/>  
 
 
